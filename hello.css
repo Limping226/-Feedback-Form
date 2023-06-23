@@ -1,0 +1,66 @@
+.box{
+  font-size:30px;
+  margin-left:400px;
+  margin-top:100px;
+  padding-top:10px;
+  text-decoration:underline;
+}
+body{
+  background-image:
+    url("https://wallpapercave.com/wp/u0FTYvt.jpg");
+    background-size:cover;
+  background-repeat:no-repeat;
+}
+.yoyo{
+  font-size:20px; 
+}
+.yoi{
+  margin-top:50px;
+  margin-left:150px;
+}
+input{
+  height:25px;
+  width:300px;
+}
+.poi{
+  margin-left:400px;
+  margin-top:-52px;
+  font-size:20px
+}
+.hey{
+  margin-top:40px;
+  font-size:20px;   
+}
+.helo{
+  margin-left:150px;
+  margin-top:40px;
+  font-size:25px;
+}
+.ri{
+  height:70px;
+  width:710px;
+}
+button{
+  padding-left:200px;
+  padding-right:200px;
+  margin-left:290px;
+  padding-top:10px;
+  padding-bottom:10px;
+  background:teal;
+  font-size:15px;
+  margin-top:10px;
+  margin-bottom:-20px;
+}
+button:hover{
+  background:black;
+  color:white;
+}
+.ji{
+  background:white;
+  margin-left:250px;
+  margin-right:250px;
+  margin-top:-20px;
+  height:475px;
+  opacity:80%;
+  border-radius:20px;
+}
